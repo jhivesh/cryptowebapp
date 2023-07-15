@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/CryptoWebApp/static/css/main.03858b5f.css",
-    "main.js": "/CryptoWebApp/static/js/main.f608b22a.js",
-    "static/media/news-page-img.png": "/CryptoWebApp/static/media/news-page-img.59da674d4bc31d1c4211.png",
-    "static/media/rocket.png": "/CryptoWebApp/static/media/rocket.4600da11156a2231057d.png",
-    "static/media/moon.png": "/CryptoWebApp/static/media/moon.9a88d2bfaa11d077fbcb.png",
-    "static/media/D-logo.png": "/CryptoWebApp/static/media/D-logo.669cde0cbee8c7c8c668.png",
-    "index.html": "/CryptoWebApp/index.html",
-    "main.03858b5f.css.map": "/CryptoWebApp/static/css/main.03858b5f.css.map",
-    "main.f608b22a.js.map": "/CryptoWebApp/static/js/main.f608b22a.js.map"
+    "main.css": "/cryptowebapp/static/css/main.77e79076.css",
+    "main.js": "/cryptowebapp/static/js/main.747974b6.js",
+    "static/media/news-page-img.png": "/cryptowebapp/static/media/news-page-img.59da674d4bc31d1c4211.png",
+    "static/media/rocket.png": "/cryptowebapp/static/media/rocket.4600da11156a2231057d.png",
+    "static/media/moon.png": "/cryptowebapp/static/media/moon.9a88d2bfaa11d077fbcb.png",
+    "static/media/D-logo.png": "/cryptowebapp/static/media/D-logo.669cde0cbee8c7c8c668.png",
+    "index.html": "/cryptowebapp/index.html",
+    "main.77e79076.css.map": "/cryptowebapp/static/css/main.77e79076.css.map",
+    "main.747974b6.js.map": "/cryptowebapp/static/js/main.747974b6.js.map"
   },
   "entrypoints": [
-    "static/css/main.03858b5f.css",
-    "static/js/main.f608b22a.js"
+    "static/css/main.77e79076.css",
+    "static/js/main.747974b6.js"
   ]
 }
